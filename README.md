@@ -26,4 +26,5 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 
-[Dream Team.pdf](https://github.com/RaymundOfina/Team-Member-Generator/files/8744784/Dream.Team.pdf)
+![Dream Team.pdf](https://github.com/RaymundOfina/Team-Member-Generator/files/8744784/Dream.Team.pdf)
+
