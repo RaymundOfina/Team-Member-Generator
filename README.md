@@ -26,4 +26,4 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 
-![alt text](https://github.com/Raymundofina/Team-Member-Generator/blob/main/image.jpg?raw=true)
+[Dream Team.pdf](https://github.com/RaymundOfina/Team-Member-Generator/files/8744784/Dream.Team.pdf)
