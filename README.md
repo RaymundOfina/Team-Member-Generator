@@ -1,5 +1,10 @@
 # Team-Member-Generator
 
+![plot](.../ScreenShots/Dream Team.pdf)
+
+
+
+
 <!-- User Story -->
 
 AS A manager
