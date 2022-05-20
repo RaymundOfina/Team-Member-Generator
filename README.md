@@ -1,6 +1,10 @@
 # Team-Member-Generator
+<<<<<<< HEAD
 ## User Story
+=======
+>>>>>>> 0e08ddeacd215db18e580cc5e23f79d664cf1275
 
+## User Story
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
@@ -26,4 +30,12 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 
+<<<<<<< HEAD
 ![Dream Team.pdf](https://github.com/RaymundOfina/Team-Member-Generator/files/8744784/Dream.Team.pdf)
+=======
+
+
+
+![Dream Team.pdf](https://github.com/RaymundOfina/Team-Member-Generator/files/8744784/Dream.Team.pdf)
+
+>>>>>>> 0e08ddeacd215db18e580cc5e23f79d664cf1275
