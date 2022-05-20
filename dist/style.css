@@ -1,5 +1,5 @@
 .team-heading {
-    background-color: #fd4bdf;
+    background-color: #fc4e4e;
     color: #ffffff;
 }
 
@@ -14,7 +14,7 @@
     max-width: 220px;
     width: 70%;
     min-height: 22rem;
-    background-color: #c8e5ee;
+    background-color: hsl(177, 90%, 71%);
     color: white;
     display: flex;
     flex-direction: column;
@@ -27,7 +27,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #c0ddfa;
+    background-color: #ffffff;
 }
 
 .list-group-item {
